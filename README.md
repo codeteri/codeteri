@@ -1,4 +1,4 @@
-Hello All This is my GitHub, feel free to roam
+Hello All, This is my GitHub, feel free to browse
 - 🔭 I’m currently working on a News App called Verus
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on Artificial Intelligence & Web Application
