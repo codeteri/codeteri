@@ -1,74 +1,38 @@
-# Hi 👋, I am Codeteri
+# <h1 align="center">Hi there, I'm Terence Kapindu</h1>
 
-I'm a **Junior Full Stack Software Engineer** at **VATIT**, passionate about building amazing software and contributing to open source projects.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=codeteri" />
+</p>
 
----
+<p align="center">
+  <strong>Full Stack Software Developer</strong>
+</p>
 
-## 🔭 About Me
-
-- 💼 Full Stack Software Engineer at VATIT
-- 🚀 Exploring in-depth full stack web development
-- 🌱 Learning & Contributing to Open Source Projects
-- 🎯 2026 Goals: Switch to a new Tech Language
-- ⚡ Interests: Web Development, Problem Solving, Clean Code
-
----
-
-## 🛠️ Backend Development & Database Services
-
-- **Node.js** | **Express** | **Prisma**
-- **MySQL** | **MongoDB** | **PostgreSQL**
-- **Python** | **Postman** | **Docker** | **Linux**
-- **Nest.js** | **Jest** | **Supabase**
+<p align="center">
+  <a href="https://linkedin.com/in/nwrkinect"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:terence@nwrkinect.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/codeteri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📱 App Development
+### About Me
 
-- **Java** | **Android Studio** | **Firebase** | **Expo** | **React Native** | **Android**
-
----
-
-## 🎨 Frontend Development & Frameworks
-
-- **HTML5** | **CSS3** | **JavaScript**
-- **TypeScript** | **React** | **Next.js** | **Vue**
-- **Tailwind CSS** | **Bootstrap** | **Axios**
+I am a solutions-oriented **Full Stack Software Developer** with a foundation in Computer Science from the **University of Cape Town**. My journey is driven by a passion for building scalable, cloud-native applications that solve real-world problems in the financial and legal sectors.
 
 ---
 
-## 🔧 Version Control & Documentation Tools
+### Tech Stack
 
-- **Git** | **GitHub** | **Markdown** | **Figma** | **Hacktoberfest 2023**
-
----
-
-## 🏆 Competitive Programming
-
-- **C** | **C++** | **Visual Studio Code**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,react,nodejs,ts,python,docker,github,vscode,cpp,cs,java,ruby,django,rails,postgres,mysql,tailwind,html,css" />
+</p>
 
 ---
 
-## 📊 My GitHub Stats
+### Let's Connect!
 
-![Profile Views](https://komarev.com/ghpvc/?username=codeteri&color=blue&style=flat-square)
+I'm always open to discussing cloud architecture, full-stack development, or the latest in fintech.
 
-[![Codeteri's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeteri&show_icons=true&theme=dark&count_private=true)](https://github.com/codeteri)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeteri&layout=compact&theme=dark)](https://github.com/codeteri)
-
----
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeteri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codeteri)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codeteri)
-
----
-
-<div align="center">
-
-**Thanks for visiting! Feel free to explore my projects and reach out to collaborate! 🚀**
-
-</div>
+- Ask me about **AWS, React, or System Design**.
+- Currently working on **Eezi powered by VATIT**.
